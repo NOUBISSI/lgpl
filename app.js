@@ -15,8 +15,6 @@ config({
 });
 
 
-
-
 console.log("noums");
 
 console.log(gitRepos + sufix);
