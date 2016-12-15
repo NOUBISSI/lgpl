@@ -30,6 +30,16 @@ var options = {
 };
 
 
+
+// var options = {
+//   url: "https://raw.githubusercontent.com/NOUBISSI/testAngular/master/package.json" ,
+//   // url: "https://raw.githubusercontent.com/akveo/blur-admin/master/package.json",
+//   headers: {
+//     'User-Agent': 'request'
+//   }
+// };
+
+
 const SIZE = 1000;
 
 var graph = {
